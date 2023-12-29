@@ -6,7 +6,8 @@ Skills
 I'm 
 <hr/>
 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jino&show_icons=true&theme=radical)
+<br/>
+![dev-jino's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jino)](https://github.com/dev-jino/github-readme-stats)
 
 <hr/>
 Contact
