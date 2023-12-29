@@ -8,7 +8,7 @@ I'm
 Stats
 <br/>
 
-[![dev-jino's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jino&theme=graywhite&show_icons=true)](https://github.com/dev-jino/github-readme-stats)
+[![dev-jino's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jino&theme=graywhite&show_icons=true&hide=stars,issues&count_private=true)](https://github.com/dev-jino/github-readme-stats)
 
 <hr/>
 Contact
