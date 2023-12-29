@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+Skills
 
+<hr/>
+Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jino&show_icons=true&theme=radical)
 
-<img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
-
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Naver</title><path d="M16.273 12.845 7.376 0H0v24h7.726V11.156L16.624 24H24V0h-7.727v12.845Z"/></svg>
-
-
+<hr/>
+Contact
 <a href="mailto:wlsgh2029@naver.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wlsgh2029@naver.com"/>
+  <img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </a>
 
-[![NaverMail Badge](https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:example@naver.com)](mailto:example@naver.com)
 
 
+<!--
 **dev-jino/dev-jino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
