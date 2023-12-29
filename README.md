@@ -1,13 +1,16 @@
 ### Hi there 👋
-
+### I'm jinho Jung ! 😄
+<hr/>
 Skills
-
+<br/>
+I'm 
 <hr/>
 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jino&show_icons=true&theme=radical)
 
 <hr/>
 Contact
+<br/>
 <a href="mailto:wlsgh2029@naver.com">
   <img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </a>
