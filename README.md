@@ -7,7 +7,7 @@ I'm
 <hr/>
 Stats
 <br/>
-![dev-jino's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jino)](https://github.com/dev-jino/github-readme-stats)
+[![dev-jino's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jino)](https://github.com/dev-jino/github-readme-stats)
 
 <hr/>
 Contact
